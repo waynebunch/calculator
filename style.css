@@ -1,0 +1,38 @@
+#calcDiv {
+  max-width: 218px;
+  max-height: 400px;
+  margin-top: 50px;
+  font-size: 20px;
+  border-radius: 20px;
+  background-color:#73CBF4;
+  border: 0px 0px 5px 5px;
+  border-color: solid orange;
+  -webkit-box-shadow: inset 3px -5px 0px  #73A9EF;
+  
+}
+
+#output {
+  margin-bottom: 10px;
+  max-width: 100%;
+  min-width:100%;
+  min-height: 35px;
+  padding: 5px;
+  border-radius: 5px;
+  border:0px;
+}
+
+.myButton, .funcButton, .acButton, .equalsButton, .parButton {
+  min-width:50px;
+  min-height: 50px;
+}
+
+.myCSS3id{
+border: 5px solid #111;
+-moz-box-shadow: 35px 35px 7px #999999;
+-moz-border-bottom-right-radius: 15px;
+-moz-border-radius:25px;
+padding: 15px 25px;
+height: inherit;
+width: 300px;
+}
+
